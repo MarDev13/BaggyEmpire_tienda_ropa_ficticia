@@ -7,7 +7,7 @@
  - Inicio de sesión y registro de usuario.
  - Control de login.
  - Acceso a categorías mediante inicio de sesión.
- - Diferentes categorías con varias productos en cada una de ellas.
+ - Diferentes categorías con varios productos en cada una de ellas.
  - Botón más detalles, donde veremos un carrusel con más imágenes del producto y una descripción larga.
  - Productos random al final de cada categoría, que invitan al cliente a ver mas productos.
  - Cestita de compra, a la que podremos ir añadiendo productos e ir revisando sin abandonar la página de la categoría en la que estemos.
