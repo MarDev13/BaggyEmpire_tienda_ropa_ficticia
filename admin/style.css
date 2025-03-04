@@ -1,0 +1,166 @@
+body {
+    background-color: rgb(143, 173, 187) !important;
+}
+
+svg {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(89, 165, 165) !important;
+
+}
+
+table {
+    background-color: rgb(108, 165, 165);
+}
+
+th {
+    background-color: rgb(151, 187, 204) !important;
+}
+
+td {
+    background-color: rgb(89, 165, 165) !important;
+}
+
+#box-buttons {
+    margin-top: 35px !important;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+#box-welcome {
+    border-radius: 5px;
+    border-color: black;
+    margin-top: 2%;
+}
+
+#titulo-welcome {
+    margin-top: 10%;
+}
+
+#box-txt-welcome {
+    margin-top: 2%;
+    background-color: rgb(143, 173, 187);
+    border-radius: 50%;
+
+}
+
+#box-tittle-text {
+    margin-top: 5%;
+    background-color: rgb(89, 165, 165);
+    height: 50%;
+}
+
+#box-table {
+    border-radius: 1%;
+    margin-top: 2%;
+}
+
+/* #box-icon{
+
+} */
+#table-user {
+    margin-top: 3%;
+}
+
+#btn-register {
+    width: 200px !important;
+    background-color: rgb(89, 165, 165) !important;
+}
+#btn-register-categorias{
+    width: 200px !important;
+    height: 50px !important;
+    margin-top: 12% !important;
+    background-color: rgb(89, 165, 165) !important;
+}
+#btn-update-categorias{
+    width: 200px !important;
+    height: 50px !important;
+    margin-top: 5% !important;
+    background-color: rgb(89, 165, 165) !important;
+}
+#btn-upDate {
+    width: 200px !important;
+    background-color: rgb(89, 165, 165) !important;
+
+}
+#txt-select-file{
+    background-color: rgb(89, 165, 165) !important;
+}
+
+#update {
+    color: rgb(0, 0, 0);
+}
+
+#btn-delete {
+    background-color: rgb(143, 173, 187);
+}
+
+#btn-refresh {
+    background-color: rgb(89, 165, 165) !important;
+    width: 200px !important;
+    border-radius: 50%;
+}
+
+#svg-delete {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(89, 165, 165) !important;
+    border-radius: 50%;
+}
+
+#box-add-product {
+    border: #999 4px dashed;
+}
+#box-more-details{
+    width: 500px;
+    height: 150px;
+}
+
+#drop_file_zone {
+    background-color: rgb(89, 165, 165) !important;
+    border: #999 4px dashed;
+    font-size: 18px;
+}
+
+#drag_upload_file {
+    width: 50%;
+    margin: 0 auto;
+}
+
+#drag_upload_file p {
+    text-align: center;
+}
+
+#selectfile {
+    display: none;
+
+}
+#table-categorias{
+    width: 40%;
+}
+#box-desc{
+    height: 200px;
+}
+#box-add-categorias{
+    border: #999 4px dashed;
+}
+#box-update-categorias{
+    border: #999 4px dashed;
+}
+#enlace-mas-detalles{
+    color: #24364d;
+  }
+
+
+/* GOOGLE FONTS */
+.kanit-light {
+    font-family: "Kanit", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.kanit-thin {
+    font-family: "Kanit", serif;
+    font-weight: 100;
+    font-style: normal;
+}

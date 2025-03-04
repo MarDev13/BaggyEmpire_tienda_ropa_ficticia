@@ -1,0 +1,197 @@
+.wallpoet-regular {
+  font-family: "Wallpoet", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.nav-link {
+  font-family: "wallpoet";
+}
+
+/* .mb-3{
+    margin-top: 10%;
+  } */
+
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+main {
+  flex: 1;
+}
+
+.container-btn-mostrarCarrito{
+  margin-left: 80%;
+  margin-top: 1%;
+  margin-right: 2%;
+ 
+}
+
+#btn-mostrarCarrito{
+   margin-left: 200px;
+}
+#btn-ir-carrito{
+  justify-content: end;
+
+}
+#table-carrito{
+  
+  width:100%; 
+  border-collapse: collapse; 
+  text-align: left;
+}
+#cabecera{
+  display: block;
+}
+#footer{
+  position: fixed;
+}
+/* #box-footer{} */
+
+
+
+
+/* pagina cesta*/
+.carrito-colum{
+  border: #3a6bac 5px solid;
+
+}
+#tablecarrito{
+  width: 50%;
+  border: #3a6bac 5px solid;
+  margin-left: 25%;
+  background-color: rgb(182, 182, 255);
+
+}
+.carrito-fila{
+  border: #3a6bac 3px solid;
+}
+.title-carrito{
+ margin-left: 38%;
+}
+#body-cesta{
+  background-image: url(img/bg-cesta.jpg) !important;
+ 
+}
+.bg-title-cesta{
+  background-color:#3a6bac;
+  
+  
+}
+.animation{
+  animation-duration: 3s;
+  animation-name: slidein;
+}
+@keyframes slidein {
+  from {
+    margin-left: 100%;
+    width: 300%;
+  }
+
+  to {
+    margin-left: 0%;
+    width: 100%;
+  }
+}
+.bg-total{
+  background-color: rgb(151, 151, 250);
+  border-radius: 3%;
+  border: #24364d dashed;
+  width: 100px;
+  height: 40px;
+  margin-top: 1%;
+  margin-left: 25%;
+  padding-top: 3px;
+  padding-left: 8px !important;
+}
+#btn-finish{
+margin-left: 30%;
+ margin-top: 3% !important;
+ position: absolute;
+ background-color: #12253d;
+}
+.box-buttons{
+  width: 80% !important;
+}
+.bg-buttons{
+  background-color: #3a6bac ;
+  border-radius: 50%;
+  margin-top: 1%;
+  width: 100%;
+}
+.btn-seguir-comprando{
+  background-color: rgb(151, 151, 250);
+}
+.enlace{
+  color: black;
+}
+.enlace2{
+  color: #97aac2;
+  font-family: wallpoet;
+}
+.bg-dos-buttons{
+
+  background-color: #12253d;
+}
+
+/* página compra finalizada */
+
+.ticket-final{
+  width: 600px;
+  height: 400px;
+ background-image: url(img/ticket.jpg) !important;
+ background-size: cover;
+ background-position: center;
+ background-repeat: no-repeat;
+}
+.list-ticket{
+  margin-top: 25%;
+
+}
+.title-finalizar{
+  margin-left: 42%;
+}
+.enlace-vovler-tienda{
+ 
+  color: rgb(255, 255, 255);
+}
+#btn-vlr{
+  width: 150px;
+  margin-left: 47%;
+  background-color:  #12253d;
+}
+#body-finalizar{
+  background-color: #637b9b;
+}
+
+/* PAGINA MIS PEDIDOS */
+.title-mis-pedidos{
+  text-align: center;
+}
+.enlace-mis-pedidos{
+color: aliceblue;
+}
+#btn-mis-pedidos{
+margin-left: 43%;
+margin-top: 2%;
+background-color: #24364d;
+}
+#enlace-mas-detalles{
+  color: #24364d;
+}
+.tabla-pedidos{
+  width: 800px;
+  border: 2px  #24364d dashed;
+}
+#body_mis_pedidos{
+  background-color: #b9c3ce;
+}
+/* pagina mas detalles */
+.tabla-detalles {
+  align-content: center;
+}
+#body_mas_detalles{
+  background-color: #b9c3ce;
+}
