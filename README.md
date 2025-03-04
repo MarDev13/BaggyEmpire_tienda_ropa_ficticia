@@ -27,5 +27,72 @@
 
 ## Imágenes
 
+**Inicio de sesión**
+
+![captura de pantalla pagina web](img_cap_pantalla/inicio_sesion.png)
+
+**Registro de usuario**
+
+![captura de pantalla pagina web](img_cap_pantalla/registro.png)
+
+**Página principal**
+
+![captura de pantalla pagina web](img_cap_pantalla/Captura%20de%20pantalla%202025-02-13%20133823.png)
+
+**Categorías(mujer) y productos random**
+
+![captura de pantalla pagina web](img_cap_pantalla/ejemplo_categoria.png)
+![captura de pantalla pagina web](img_cap_pantalla/random.png)
+
+
+**Más detalles**
+
+![captura de pantalla pagina web](img_cap_pantalla/mas_detalles.png)
+
+**Añadir a la cesta**
+
+![captura de pantalla pagina web](img_cap_pantalla/añadir_cesta.png)
+
+**Ir a la cesta**
+
+![captura de pantalla pagina web](img_cap_pantalla/mi_cesta.png)
+
+**Finalizar compra**
+
+![captura de pantalla pagina web](img_cap_pantalla/finalizar_compra.png)
+
+
+**Mis pedidos**
+
+![captura de pantalla pagina web](img_cap_pantalla/mis_pedidos.png)
+
+### Panel de control para admin
+
+
+**Inicio**
+
+![captura de pantalla pagina web](img_cap_pantalla/inicio_panel_control.png)
+
+**categorías**
+
+![captura de pantalla pagina web](img_cap_pantalla/categorias_pc.png)
+
+**Productos**
+
+![captura de pantalla pagina web](img_cap_pantalla/productos_pc.png)
+![captura de pantalla pagina web](img_cap_pantalla/productos2_pc.png)
+
+**Usuarios**
+
+![captura de pantalla pagina web](img_cap_pantalla/usuarios_pc.png)
+
+![captura de pantalla pagina web](img_cap_pantalla/usuarios2_pc.png)
+
+**Ventas**
+
+![captura de pantalla pagina web](img_cap_pantalla/ventas_pc.png)
+![captura de pantalla pagina web](img_cap_pantalla/ventas2_pc.png)
+
+
 
 

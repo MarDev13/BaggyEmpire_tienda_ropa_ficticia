@@ -1,7 +1,7 @@
 <?php require_once "cabecera.php"; ?>
 
-<div class="col-md-6">
-  <header class="d-flex justify-content-center">
+<div class="col-md-6  text-center mt-5">
+  <header class="d-flex justify-content-center mt-5">
     <h2 class="mb-3 wallpoet-regular">Regístrate en el Beat</h2>
   </header>
   <main>
